@@ -123,14 +123,6 @@ Using **Pandas and Matplotlib**, we:
 
 ---
 
-##  Project Structure
-
- Blinkit-Data-Analysis/
-├──  PowerBI Dashboard (Blinkit.pbix)
-├──  SQL analysis (Blinkit_analysis.sql)
-├──  Python Scripts (Blinkit Analysis.ipynb)
-├──  Excel Files (BlinkIT Grocery Data.xlsx)
-├──  Documentation ( README.md)
 
 
 
