@@ -127,7 +127,8 @@ Using **Pandas and Matplotlib**, we:
 
  Blinkit-Data-Analysis/
 ├──  PowerBI Dashboard (Blinkit.pbix)
-├──  Python Scripts (EDA.ipynb / analysis.py)
+├──  SQL analysis (Blinkit_analysis.sql)
+├──  Python Scripts (Blinkit Analysis.ipynb)
 ├──  Excel Files (BlinkIT Grocery Data.xlsx)
 ├──  Documentation ( README.md)
 
